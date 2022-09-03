@@ -10,7 +10,7 @@ app = Flask(__name__)
 @app.route('/')
 def hello_world():
     now = datetime.now()
-    return 'Hello from Flask, by Insper DS! - ' + str(now)
+    return 'Hello from Flask, Daniel- by Insper DS! - ' + str(now)
 
 @app.route('/core')
 def core():
