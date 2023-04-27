@@ -10,3 +10,7 @@ sudo apt install wget
 sudo apt install python3
 pip install Flask
 ```
+
+Reference:
+
+- https://flask.palletsprojects.com
